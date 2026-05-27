@@ -1,6 +1,6 @@
 # 💰 Financial Control Automation
 
-![Preview](images/cadastrar.jpeg)
+![Preview](images/apps.jpeg)
 
 Este projeto foi desenvolvido com o objetivo de aprofundar meus conhecimentos em automação de planilhas utilizando Google Apps Script.
 
