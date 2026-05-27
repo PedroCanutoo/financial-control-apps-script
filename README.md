@@ -1,4 +1,6 @@
-# 💰 Financial Control Automation (Google Sheets + Apps Script)
+# 💰 Financial Control Automation
+
+![Preview](images/cadastrar.jpeg)
 
 Este projeto foi desenvolvido com o objetivo de aprofundar meus conhecimentos em automação de planilhas utilizando Google Apps Script.
 
@@ -74,3 +76,23 @@ Este projeto foi desenvolvido com fins de estudo e aprendizado, mas já com vis�
 ## 👨‍💻 Autor
 
 Desenvolvido por [Pedro Canuto]
+
+
+## 📷 Preview
+
+## 📷 Preview
+
+### Cadastro
+![Cadastro](images/cadastrar.jpeg)
+
+### Movimentações
+![Movimentações](images/movimentacoes.jpeg)
+
+### Auxiliar
+![Auxiliar](images/auxiliar.jpeg)
+
+### Relatório
+![Relatório](images/realtorio.jpeg)
+
+### Gerador
+![Gerar](images/gerar.jpeg)
