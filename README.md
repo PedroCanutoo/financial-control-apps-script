@@ -91,6 +91,9 @@ Desenvolvido por [Pedro Canuto]
 ### Auxiliar
 ![Auxiliar](images/auxiliar.jpeg)
 
+### APPS SCRIPT 
+![Preview](images/apps.jpeg)
+
 ### Relatório
 ![Relatório](images/realtorio.jpeg)
 
